@@ -6,8 +6,6 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
 -  Learning Next.js & Advanced React
 -  Interested in Creative Development
 
----
-
 # Skills
 
 ### Languages
