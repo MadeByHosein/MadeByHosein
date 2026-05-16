@@ -26,20 +26,32 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts" />
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" width="40"/>
 </p>
 
-### Technologies
+### Frontend Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,firebase" />
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="40"/>
 </p>
 
-### Tools
+### Tools & Dev Environment
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,figma,vercel" />
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Npm-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" width="40"/>
 </p>
 
 ### Currently Learning
