@@ -1,17 +1,3 @@
-<div align="center">
-
-# Hosein Ap
-
-### Front-End Developer • React • TailwindCSS
-
-Building modern, responsive and animated web interfaces.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
 Hi there! I'm Hosein, a front-end developer passionate about creating modern user interfaces and interactive web experiences with React ecosystem.
 
 - ⚛️ React & Modern Front-End
