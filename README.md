@@ -41,5 +41,7 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,gsap,threejs" title="MongoDB, GSAP, Three.js" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="60" title="MongoDB" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GSAP.svg" width="60" title="GSAP (GreenSock Animation Platform)" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ThreeJS-Dark.svg" width="60" title="Three.js" />
 </p>
