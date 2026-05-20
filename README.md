@@ -41,5 +41,5 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express" title="MongoDB, Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb,gsap,threejs" title="MongoDB, GSAP, Three.js" />
 </p>
