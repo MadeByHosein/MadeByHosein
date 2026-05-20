@@ -42,16 +42,5 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
 
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="60" title="MongoDB" />
-  <img src="https://img.shields.io/badge/GSAP-Animation-green?style=for-the-badge&logo=greensock" title="GSAP (GreenSock)" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ThreeJS-Dark.svg" width="60" title="Three.js" />
-
-  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=flat-square&logo=greensock&logoColor=white" title="GSAP" />
-
-<img src="https://img.shields.io/badge/GSAP-GreenSock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" title="GSAP (GreenSock Animation Platform)" />
-
-<img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=plastic&logo=greensock" title="GSAP" />
-
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock" title="GSAP" />
-
-<img src="https://img.shields.io/badge/GSAP-Animation-000000?style=for-the-badge&logo=greensock&logoColor=88CE02" title="GSAP" />
 </p>
