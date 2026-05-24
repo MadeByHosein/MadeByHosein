@@ -1,9 +1,5 @@
 Hi there! I'm Hosein, a front-end developer passionate about creating modern user interfaces and interactive web experiences with React ecosystem.
 
-- React & Next.js  
-- Clean UI / UX  
-- TailwindCSS & Animations   
-
 # Skills
 
 ### Languages
