@@ -20,7 +20,7 @@ Hi there! I'm Hosein, a front-end developer passionate about creating modern use
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" width="60" title="Tailwind CSS" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" width="60" title="Bootstrap" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="60" title="Redux" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/assets/zustand-auto.svg" width="60" title="zustand" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat-square&logo=react&logoColor=white" width="90" title="Zustand" />
 </p>
 
 ### Tools & Dev Environment
